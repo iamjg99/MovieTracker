@@ -20,3 +20,4 @@ jobs:
           expo-cache: true
       - run: yarn ci
       - run: expo publish
+
