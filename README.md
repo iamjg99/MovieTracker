@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Cine: The Movie Guide" src="./app/assets/images/icon.png" height="85" width="85" />
-  <h3 align="center">Cine: The Movie Guide</h3>
+  <img alt="MovieTracker" src="./app/assets/images/icon.png" height="85" width="85" />
+  <h3 align="center">MovieTracker: The Movie Guide</h3>
 </p>
 
 ---
@@ -9,13 +9,13 @@
 [![supports Android](https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)](https://expo.io/@murillo94/cine-the-movie-guide)
 [![supports web](https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff)](https://cine-the-guide-movie.vercel.app/)
 
-Cine is your movie guide. The fastest and easiest way to find Movies, Actors and Series on your device. Know about ratings and reviews from The Movie Database (TMDb).
+MovieTracker is your movie guide. The fastest and easiest way to find Movies, Actors and Series on your device. Know about ratings and reviews from The Movie Database (TMDb).
 
-![Cine: The Movie Guide](./resources/demo.png)
+![MovieTracker: The Movie Guide](./resources/demo.png)
 
 ## Architecture
 
-Cine was built to run on iOS, Android, Web and PWA. It uses [Expo](https://expo.io/) as a core lib to build and distribute to all the platforms.
+MovieTracker was built to run on iOS, Android, Web and PWA. It uses [Expo](https://expo.io/) as a core lib to build and distribute to all the platforms.
 
 ### Libs
 
@@ -29,9 +29,6 @@ Cine was built to run on iOS, Android, Web and PWA. It uses [Expo](https://expo.
 
 - [TMDb](https://developers.themoviedb.org/3/getting-started/introduction)
 
-### Dribbble
-
-https://dribbble.com/shots/5409613-Cinema-App-UI
 
 ## Testing on your phone
 
@@ -42,13 +39,6 @@ You can download the app on [Expo app](https://expo.io/@murillo94/cine-the-movie
 ## Testing on your web
 
 You can click [here](https://cine-the-guide-movie.vercel.app/) to check the app runnnig on web. If you want to use the app as PWA, go to settings browser on your phone and download it.
-
-## Contributing
-
-Any bug reports, feature requests and other contributions are more than welcome! <br/>
-Whenever possible, please make a pull request with the implementation instead of just requesting it.
-
-If the feature is big, open an issue first for discussion.
 
 ## Running locally
 
@@ -74,10 +64,6 @@ Now, you can choose a command to run the project:
 ## Deploying
 
 Expo provides simple ways to build and deploy your app with singles commands:
-
-### Web
-
-The web deploy not runs on CI because I need to improve the step, so I follow [theses steps](https://docs.expo.io/distribution/publishing-websites/#vercel) and deploy locally using [Vercel](http://vercel.com/).
 
 ### iOS and Android
 
