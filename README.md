@@ -68,3 +68,4 @@ Expo provides simple ways to build and deploy your app with singles commands:
 
 The app deploy runs on CI and the commands are scopped on a `yaml` file check it [here](./.github/workflows/publish.yml)
 
+
