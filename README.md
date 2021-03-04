@@ -1,5 +1,4 @@
 <p align="center">
-  <img alt="MovieTracker" src="./app/assets/images/icon.png" height="85" width="85" />
   <h3 align="center">MovieTracker: The Movie Guide</h3>
 </p>
 
@@ -69,6 +68,3 @@ Expo provides simple ways to build and deploy your app with singles commands:
 
 The app deploy runs on CI and the commands are scopped on a `yaml` file check it [here](./.github/workflows/publish.yml)
 
-## License
-
-AGPL-3.0, see the [LICENSE](./LICENSE.md) file.
