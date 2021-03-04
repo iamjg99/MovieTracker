@@ -31,13 +31,9 @@ MovieTracker was built to run on iOS, Android, Web and PWA. It uses [Expo](https
 
 ## Testing on your phone
 
-You can download the app on [Expo app](https://expo.io/@murillo94/cine-the-movie-guide) or scan the below QR code to open the project on Android and iOS if you already have the Expo app:
+You can download the app on Expo App or scan the below QR code to open the project on Android and iOS if you already have the Expo app:
 
 <img alt="Cine: The Movie Guide" src="./resources/qrcode.png" height="150" width="150" />
-
-## Testing on your web
-
-You can click [here](https://cine-the-guide-movie.vercel.app/) to check the app runnnig on web. If you want to use the app as PWA, go to settings browser on your phone and download it.
 
 ## Running locally
 
