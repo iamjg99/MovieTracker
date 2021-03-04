@@ -4,3 +4,4 @@ import mockAsyncStorage from '@react-native-async-storage/async-storage/jest/asy
 jest.mock('@react-native-async-storage/async-storage', () => mockAsyncStorage);
 
 global.fetch = require('node-fetch');
+
